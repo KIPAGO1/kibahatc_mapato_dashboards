@@ -8,4 +8,7 @@ plotly.subplots
 time
 matplotlib
 matplotlib.pyplo
+xlsxwriter
+reportlab
+openpyxl
 
