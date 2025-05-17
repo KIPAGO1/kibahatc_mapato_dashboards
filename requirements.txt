@@ -2,13 +2,6 @@ streamlit
 pandas
 plotly
 numerize
-datetime
-plotly.express
-plotly.subplots
-time
 matplotlib
-matplotlib.pyplo
-xlsxwriter
-reportlab
 openpyxl
-plotly
+streamlit_option_menu
