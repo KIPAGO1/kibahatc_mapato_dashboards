@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+numerize
+datetime
+plotly.express
+plotly.subplots
+time
+matplotlib
+matplotlib.pyplo
+
