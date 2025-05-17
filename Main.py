@@ -6,6 +6,14 @@ import plotly.express as px
 import plotly.subplots as sp
 import time
 import matplotlib.pyplot as plt
+import io
+import xlsxwriter
+from reportlab.platypus import SimpleDocTemplate, Table, TableStyle
+from reportlab.lib import colors
+from pathlib import Path
+from werkzeug.security import check_password_hash
+import json
+from login import login
 
 #set page
 now = datetime.now().strftime("%Y-%m-%d      %H:%M:%S")
