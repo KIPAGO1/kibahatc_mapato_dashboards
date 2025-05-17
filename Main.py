@@ -18,7 +18,7 @@ from login import login
 #set page
 now = datetime.now().strftime("%Y-%m-%d      %H:%M:%S")
 st.set_page_config(page_title="Mapato | Dashboard", page_icon="🌎", layout="wide")  
-st.subheader(f"📈 Buhigwe Mapato Dashboard 📆🕒 {now}")
+st.subheader(f"📈 Kibaha TC Mapato Dashboard 📆🕒 {now}")
 
 
 # load CSS Style
