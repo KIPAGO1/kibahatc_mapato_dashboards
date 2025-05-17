@@ -11,4 +11,5 @@ matplotlib.pyplo
 xlsxwriter
 reportlab
 openpyxl
+numerize.numerize
 
