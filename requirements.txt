@@ -1,11 +1,12 @@
 streamlit
 pandas
-plotly
 numerize
+datetime
+plotly.express
+plotly.subplots
+time
 matplotlib
-openpyxl
-streamlit_option_menu
+io
 xlsxwriter
 reportlab
-check_password_hash
-werkzeug
+Path
