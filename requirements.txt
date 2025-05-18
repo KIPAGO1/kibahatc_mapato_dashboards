@@ -2,8 +2,7 @@ streamlit
 pandas
 numerize
 datetime
-plotly.express
-plotly.subplots
+plotly
 time
 matplotlib
 io
