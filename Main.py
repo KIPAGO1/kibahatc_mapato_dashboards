@@ -6,7 +6,6 @@ import plotly.express as px
 import plotly.subplots as sp
 import time
 import matplotlib.pyplot as plt
-import io
 import xlsxwriter
 
 
